@@ -2,8 +2,9 @@
     <channel>
         <title>LoveIt</title>
         <link>https://black323.github.io/</link>
-        <description>关于 LoveIt 主题</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <description>拾年的一个小窝</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zykjaj@163.com (拾年)</managingEditor>
+            <webMaster>zykjaj@163.com (拾年)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://black323.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
